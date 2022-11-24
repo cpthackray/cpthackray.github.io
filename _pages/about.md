@@ -16,5 +16,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Research Associate and Scientific Programmer working with the Biogeochemistry of Global Contaminants group in the School of Engineering and Applied Sciences at Harvard University. My research is the development of numerical models to study how biogeochemical processes affect the fate, transport and food-web bioaccumulation of trace metals and organic chemicals in the environment, marine ecosystems, and humans.
+I am a Research Associate and Scientific Programmer working with the <a href="https://bgc.seas.harvard.edu/">Biogeochemistry of Global Contaminants group</a> in the School of Engineering and Applied Sciences at Harvard University. My research is the development of numerical models to study how biogeochemical processes affect the fate, transport and food-web bioaccumulation of trace metals and organic chemicals in the environment, marine ecosystems, and humans.
 
